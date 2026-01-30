@@ -5,3 +5,8 @@ print("we are learning python basic")
 x = 0
 ## Print the Value in variable X which is 0
 print(x)
+
+## Now are taking input by user in real time 
+
+y=input("Enter a Number ")
+print(y)
