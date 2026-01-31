@@ -10,3 +10,16 @@ print(x)
 
 y=input("Enter a Number ")
 print(y)
+
+## Another Way of taking input from user
+print("Enter Your Name : ")
+name=input()
+print("Your Name is : ")
+print(name)
+## A User Defined Function in python
+def Function(n):
+    print(n)
+
+## Call to User Defined Function
+Function("call to user defined function")
+## End of the Program
